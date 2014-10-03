@@ -1,0 +1,3 @@
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1Content\obj\x86\Debug\Series3D1Content.contentprojResolveAssemblyReference.cache
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1Content\obj\x86\Debug\Series3D1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1Content\obj\x86\Debug\Series3D1Content.contentprojResolveAssemblyReference.cache

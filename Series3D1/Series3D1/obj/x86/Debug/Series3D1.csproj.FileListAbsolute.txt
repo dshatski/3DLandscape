@@ -1,0 +1,51 @@
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Series3D1.exe
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Series3D1.pdb
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\obj\x86\Debug\Series3D1.exe
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\obj\x86\Debug\Series3D1.pdb
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\effects.xnb
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\heightmap.xnb
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\Series4Effects.xnb
+c:\users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\grass.xnb
+C:\Users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\rock.xnb
+C:\Users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\sand.xnb
+C:\Users\imagin8\documents\visual studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\snow.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1\Series3D1\Series3D1\obj\x86\Debug\Series3D1.csprojResolveAssemblyReference.cache
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\dome.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\cloudMap_0.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\cloudMap.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1\Series3D1\Series3D1\bin\x86\Debug\Content\waterbump.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\effects.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\Series4Effects.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\heightmap.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\grass.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\rock.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\sand.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\snow.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\cloudMap.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\waterbump.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\dome.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Content\cloudMap_0.xnb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Series3D1.exe
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\bin\x86\Debug\Series3D1.pdb
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\obj\x86\Debug\Series3D1.csprojResolveAssemblyReference.cache
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\obj\x86\Debug\Series3D1.exe
+C:\Users\imagin8\Documents\Visual Studio 2010\Projects\Series3D1 - Copy\Series3D1\Series3D1\obj\x86\Debug\Series3D1.pdb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\effects.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\Series4Effects.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\heightmap.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\grass.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\rock.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\sand.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\snow.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\cloudMap.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\waterbump.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\dome.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Content\cloudMap_0.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Series3D1.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\bin\x86\Debug\Series3D1.pdb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\obj\x86\Debug\Series3D1.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\obj\x86\Debug\Series3D1.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\3DLandscape\Series3D1\Series3D1\obj\x86\Debug\Series3D1.pdb
